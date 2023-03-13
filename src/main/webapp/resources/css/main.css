@@ -1,0 +1,23 @@
+#sidebar{
+	width: 200px;
+	height: 100%;
+	background-color: navy;
+	position: fixed;
+	padding: 10px;
+	left: 0%;
+	top: 0%;	
+	font-variant: small-caps;
+}
+
+#sidebar a{
+	color: white;
+	text-decoration: none;
+}
+
+#sidebar a:hover {
+	color: aqua;
+}
+
+#main{
+	padding-left: 250px;
+}
