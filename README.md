@@ -4,7 +4,7 @@ Designed and developed Bank Management Application using Java and MySQL as part 
 
 
 ## Functionalities
-```
+
 User/Custome can: 
 * Register
 * Login
@@ -13,9 +13,10 @@ User/Custome can:
 * Withdraw Money
 * Get withdraw List
 * Check Balance
-````
+
 
 ## Technologie Used
+
 * Java
 * MYSQL
 * CSS
@@ -23,13 +24,12 @@ User/Custome can:
 * Eclipse JEE
 * Tomcat 9.0
 
-
 ## Prerequisites
 
 Downlaod and add the following jar in the project build path
 
-mysql-connector-java-5.1.40-bin.jar
-servlet-api-2.5.jar
+* mysql-connector-java-5.1.40-bin.jar
+* servlet-api-2.5.jar
 
 
 ## Run
