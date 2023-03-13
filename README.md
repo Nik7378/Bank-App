@@ -1,6 +1,6 @@
 # Banking Application using Java
 
-Designed and developed Employee Management System using Java and MySQL as part of a Dynamic web project. Created functionalities for Customer/User roles. 
+Designed and developed Bank Management Application using Java and MySQL as part of a Dynamic web project. Created functionalities for Customer/User roles. 
 
 
 ## Functionalities
