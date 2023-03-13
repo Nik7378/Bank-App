@@ -5,7 +5,7 @@ This is a Bank Web Application based on Java and SQL.
 ##
 
 ## Usage
-
+```
 -Register
 -Login
 -Deposit Money
@@ -13,7 +13,7 @@ This is a Bank Web Application based on Java and SQL.
 -Withdraw Money
 -Withdraw List
 -Check Balance
-
+````
 ## Technologie Used
 Language: Java, SQL, CSS, HTML
 Database: MySQL
