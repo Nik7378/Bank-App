@@ -6,6 +6,7 @@ This is a Bank Web Application based on Java and SQL.
 
 ## Usage
 ```
+Module: 
 -Register
 -Login
 -Deposit Money
