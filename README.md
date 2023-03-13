@@ -4,7 +4,7 @@ This is a Bank Web Application based on Java and SQL.
 
 ##
 
-## Modules
+## Usage
 
 -Register
 -Login
